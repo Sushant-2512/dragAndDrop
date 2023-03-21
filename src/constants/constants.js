@@ -1,0 +1,9 @@
+const CONSTANT = {
+  No_SELECT: "no-select",
+  CREATE: "CREATE",
+  INSERT: "INSERT",
+  DELETE: "DELETE",
+  INSERTALL: "INSERTALL",
+  SUCCESS: "SUCCESS",
+};
+export default CONSTANT;
